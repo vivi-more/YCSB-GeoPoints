@@ -1,0 +1,4 @@
+workload=site.ycsb.geodata.GeoPointWorkload
+
+recordcount=10000
+operationcount=10000

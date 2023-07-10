@@ -1,0 +1,8 @@
+workload=site.ycsb.geodata.GeoPointWorkload
+
+recordcount=1000
+operationcount=1000
+
+scanknnproportion=0.3
+scanbydistanceproportion=0.3
+scanbypolygonproportion=0.3
