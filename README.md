@@ -24,20 +24,11 @@ YCSB
 
 Links
 -----
-* To get here, use https://ycsb.site
-* [Our project docs](https://github.com/brianfrankcooper/YCSB/wiki)
-* [The original announcement from Yahoo!](https://labs.yahoo.com/news/yahoo-cloud-serving-benchmark/)
-
+* Original version: https://github.com/brianfrankcooper/YCSB
 Getting Started
 ---------------
 
-1. Download the [latest release of YCSB](https://github.com/brianfrankcooper/YCSB/releases/latest):
-
-    ```sh
-    curl -O --location https://github.com/brianfrankcooper/YCSB/releases/download/0.17.0/ycsb-0.17.0.tar.gz
-    tar xfvz ycsb-0.17.0.tar.gz
-    cd ycsb-0.17.0
-    ```
+1. Download the .zip of this repository.
     
 2. Set up a database to benchmark. There is a README file under each binding 
    directory.
