@@ -18,13 +18,11 @@ LICENSE file.
 
 YCSB
 ====================================
-[![Build Status](https://travis-ci.org/brianfrankcooper/YCSB.png?branch=master)](https://travis-ci.org/brianfrankcooper/YCSB)
-
-
 
 Links
 -----
 * Original version: https://github.com/brianfrankcooper/YCSB
+  
 Getting Started
 ---------------
 
